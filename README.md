@@ -8,7 +8,7 @@
 
 ### Sobre Mim
 
-Olá! 👋 Sou o Rodrigo, um engenheiro mecânico apaixonado, com mais de 4 anos de experiência em design de produtos mecânicos e modelagem 3D. Já trabalhei em projetos como tanques, vasos de pressão industriais e com mercado náutico. 🛠️
+Olá! 👋 Sou o Rodrigo, um engenheiro mecânico com mais de 6 anos de experiência em design de produtos mecânicos e modelagem 3D. Já trabalhei em projetos industriais e com mercado náutico. 🛠️
 
 Recentemente, tenho mergulhado no mundo da engenharia de dados, combinando minha mentalidade de resolução de problemas com habilidades técnicas e o poder dos dados. 📊 Estou constantemente aprendendo e explorando temas de modelagem e análise de dados. Meu objetivo é fazer uma transição completa para essa área e contribuir com soluções inteligentes e orientadas por dados! 💡
 ### Formação Acadêmica
